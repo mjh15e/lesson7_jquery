@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 7th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Mike Hart)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created an application that responds to a users requests using jquery. The application contains a recipe that includes ingredients and instructions that display when a user clicks or hovers over the headers. )
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mjh15e.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One thing I learned from this assignment is that there are many options in the form of equations that are used to traverse the DOM.)
+2. (Additionally, In this assignment I got practice using jquery and now have a better understanding of the application of it.)
+3. (Finally, I learned how to use the Javascript Console Pane to inspect the DOM and make small changes to see the product.)
 
